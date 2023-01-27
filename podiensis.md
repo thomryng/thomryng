@@ -21,7 +21,7 @@ From Le Puy-en-Velay to Saint-Jean-Pied-de-Port
 
 | | Stage | Lodgings | Distance | Total | End altitude |
 | -- | -- | -- | -- | -- | -- |
-| 1) | Le Puy-en-Velay - Montbonnet | 3G, M | 17.1 | 17.1 | 1,117 m |
+| 1) | Le Puy-en-Velay - Montbonnet* | 3G, M | 17.1 | 17.1 | 1,117 m | 
 | 2) | Montbonnet - Saugues | 7G, 5M+, 2H, C | 27 | 44.1 | 962 m |
 | 3) | Saugues - Le Domaine du Sauvage | G | 19.7 | 63.8 | 1,293 m |
 | 4) | Le Domaine du Sauvage - Bigose | G/M | 22.7 | 86.5 | 975 m |
@@ -53,6 +53,8 @@ From Le Puy-en-Velay to Saint-Jean-Pied-de-Port
 | 30) | Navarrenx - Landaco (FR 0,5 km) | G | 22.5 | 717.3 | 124 m |
 | 31) | Landaco (FR 0,5 km) - Ostabat | 3G, M | 22 | 739.3 | 162 m |
 | 32) | Ostabat - Saint-Jean-Pied-de-Port | R, 19G, 5M+, 5H+, C | 22.6 | 761.9 | 169 m |
+
+*note* that an alternative plan is to walk as far as Saint-Privat d’Allier, a distance of 24km, which leaves only 19km the next day to Saugues.
 
 ## Part 2: the Camino Francés in Spain
 From Saint-Jean-Pied-de-Port to Santiago de Compostela
