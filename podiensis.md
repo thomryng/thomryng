@@ -54,7 +54,7 @@ From Le Puy-en-Velay to Saint-Jean-Pied-de-Port
 | 31) | Landaco (FR 0,5 km) - Ostabat | 3G, M | 22 | 739.3 | 162 m |
 | 32) | Ostabat - Saint-Jean-Pied-de-Port | R, 19G, 5M+, 5H+, C | 22.6 | 761.9 | 169 m |
 
-*note* that an alternative plan is to walk as far as Saint-Privat d’Allier, a distance of 24km, which leaves only 19km the next day to Saugues.
+*Note* that an alternative plan for day 1 is to walk as far as Saint-Privat d’Allier, a distance of 24km, which leaves only 19km the next day to Saugues.
 
 ## Part 2: the Camino Francés in Spain
 From Saint-Jean-Pied-de-Port to Santiago de Compostela
