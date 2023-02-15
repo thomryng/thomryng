@@ -1,6 +1,6 @@
 This is a hack at the schedule for our 2024 Camino. This is a total of 65 days walking, to which at least three rest days will be added (Conques and Burgos, plus one floating day).
 
-This is a worst-case scenario, particularly on the Camino Francés. The hope is to reduce days walking to 62: 32 days in France and 30 in Spain.
+This is a worst-case scenario, particularly on the Camino Francés. The hope is to reduce days walking to 62: 31 days in France and 31 in Spain.
 
 ## Part 1: the Via Podiensis in France
 From Le Puy-en-Velay to Saint-Jean-Pied-de-Port
