@@ -13,4 +13,4 @@
 
 [Itinerary](https://github.com/thomryng/thomryng/blob/main/podiensis.md) for 1,540 km / 950 miles
 
-[Elevation Profile](https://github.com/thomryng/thomryng/blob/main/podiensis-elevation.md) for the French section
+[Elevation Profiles](https://github.com/thomryng/thomryng/blob/main/podiensis-elevation.md)
