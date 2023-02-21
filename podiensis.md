@@ -86,6 +86,6 @@ There are few notes for the Spanish section, as we've walked that before and hav
 | 69 | Mon, Jun 10, 2024 | PARIS\* | PARIS\* | | | | | |
 | 70 | Tue, Jun 11, 2024 | PARIS\* | fly home | | | | | |
 | 71 | Wed, Jun 12, 2024 | HOME | | | | | | |
-| | | | TOTAL | 1,540.0 | 18,134.0 | 18,619.0 | |
+| | | | TOTAL DISTANCE | 1,540.0 km | | | |
 
 \* ADDITIONAL OPTIONS: there are two major options/different routes that begin on stage 13, the Célé Valley and Rocamadour variants. C provides an alternate route to CAHORS of 5 days, while R takes 6 days to reach CAHORS. Given time constraints, it's unlikely that I will take either, although I'm somewhat disappointed to miss the great shrine at Rocamadour.
