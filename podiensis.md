@@ -48,7 +48,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 29 | Wed, May 01, 2024 | Navarrenx | Aroue | 19.5 | 275 | 290 | Basque Country | Pack food and water. |
 | 30 | Thu, May 02, 2024 | Aroue | Ostabat-Asme | 24.0 | 645 | 585 | Basque Country | Options! Terrain! |
 | 31 | Fri, May 03, 2024 | Ostabat-Asme | Saint-Jean-Pied-de-Port | 22.2 | 325 | 310 | Basque Country | Lots of road walking. |
-| 32 | Sat, May 04, 2024 | Saint-Jean-Pied-de-Port | Roncesvalles | 26.0 | | | Basque Country | PYRENEES |
+| 32 | Sat, May 04, 2024 | Saint-Jean-Pied-de-Port | Roncesvalles | 26.0 | 1574 | 333 | Basque Country | PYRENEES |
 | 33 | Sun, May 05, 2024 | Roncesvalles | Zubiri | 21.5 | | | Navarra | |
 | 34 | Mon, May 06, 2024 | Zubiri | PAMPLONA\* | 22.0 | | | Navarra | |
 | 35 | Tue, May 07, 2024 | PAMPLONA\* | PUENTE LA REINA | 24.0 | | | Navarra | |
