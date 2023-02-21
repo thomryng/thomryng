@@ -2,7 +2,9 @@ This is a hack at the schedule for our 2024 Camino. This is a total of 63 days w
 
 A buffer of several days is built in at the end to account for unexpected Zero days due to fatigue or injury or someplace so spectacular we need to spend a day exploring it.
 
-There are few notes for the Spanish section, as we've walked that before and have a vague idea of what to expect. Place names in CAPITALS have a population of more than 2500. \* following indicates a population of more than 10,000.
+There are few notes for the Spanish section, as we've walked that before and have a vague idea of what to expect. 
+
+Place names in CAPITALS have a population of more than 2500. \* following indicates a population of more than 10,000.
 
  | Stage | Date | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
