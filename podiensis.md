@@ -23,12 +23,12 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 10 | Fri, Apr 12, 2024 | Espeyrac | Conques | 12.5 | 419 | 513 | Lot River Valley | Use caution on steep descent into Conques. With any luck, we'll have a half-day to explore Conques. This is Francine's last day until meeting up again somewhere in Spain. |
 | 11 | Sat, Apr 13, 2024 | Conques | Livinhac-le-Haut | 25.8 | 1139 | 1212 | Lot River Valley | A strenuous day with a steep morning climb. Late lunch (?) in city of DECAZEVILLE. |
 | 12 | Sun, Apr 14, 2024 | Livinhac-le-Haut | FIGEAC\* | 24.4 | 707 | 731 | Quercy | Today's route is a UNESCO World Heritage site. FIGEAC is the largest city so far. Try to get here early, as there is an Egyptian museum and a Templar Commandery. |
-| | Option 1: four days to CAHORS | | | | | | | |
+| | **Option 1: four days to CAHORS** | | | | | | | |
 | 13 | Mon, Apr 15, 2024 | FIGEAC\* | Gréalou | 19.0 | 648 | 453 | Quercy | Today's route is a UNESCO World Heritage site (through tomorrow morning). Stock up on snacks and pack extra water. |
 | 14 | Tue, Apr 16, 2024 | Gréalou | Limogne-en-Quercy | 28.3 | 806 | 882 | Quercy | Steep descent mid-day to the town of Cajarc, followed by an equally steep ascent. Pack extra water. |
 | 15 | Wed, Apr 17, 2024 | Limogne-en-Quercy | Mas de Vers | 22.1 | 376 | 410 | Quercy | Today's route is a UNESCO World Heritage site (through tomorrow). RESERVE |
 | 16 | Thu, Apr 18, 2024 | Mas de Vers | CAHORS | 17.7 | 388 | 537 | Quercy | CAHORS is the largest city of the Quercy region. Old city and domed Romanesque cathedral are not to be missed. |
-| | Option 2: three days to CAHORS followed by Zero Day.\* | | | | | | | |
+| | **Option 2: three days to CAHORS followed by Zero Day.** [additional options](#additional-options-at-figeac] | | | | | | | |
 | 13 | Fri, Apr 19, 2024 | FIGEAC\* | Cajarc | 30.8 | 620 | 670 | Quercy | moderate, with a short sharp descent at the very end |
 | 14 | Sat, Apr 20, 2024 | Cajarc | Varaire | 27.5 | 510 | 340 | Quercy | easy to moderate |
 | 15 | Sun, Apr 21, 2024 | Varaire | CAHORS | 32.5 | 365 | 550 | Quercy | long, but easy |
@@ -90,4 +90,8 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 71 | Wed, Jun 12, 2024 | HOME | | | | | | |
 | | | | TOTAL DISTANCE | 1,540.0 km | | | |
 
-\* ADDITIONAL OPTIONS: there are two major options/different routes that begin on stage 13, the **Célé Valley** and **Rocamadour** variants. The Célé Valley variant provides an alternate route to CAHORS of 5 days, while the Rocamadour variant takes 6 days to reach CAHORS. Given time constraints, it's unlikely that I will take either, although I'm somewhat disappointed to miss the great shrine at Rocamadour. One possibility is to take a train from FIGEAC to Rocamadour in the morning, and then back in the evening. That possibility will offset the remaining Camino by a day.
+### Additional Options at FIGEAC 
+
+There are two major options/different routes that begin on stage 13, the **Célé Valley** and **Rocamadour** variants. The Célé Valley variant provides an alternate route to CAHORS of 5 days, while the Rocamadour variant takes 6 days to reach CAHORS. Given time constraints, it's unlikely that I will take either, although I'm somewhat disappointed to miss the great shrine at Rocamadour. 
+
+One possibility is to take a train from FIGEAC to Rocamadour in the morning, and then back in the evening. That possibility will offset the remainder of the Camino by a day.
