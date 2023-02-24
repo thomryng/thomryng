@@ -42,6 +42,9 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 14 | Sat, Apr 20, 2024 | Cajarc | Varaire | 27.5 | 510 | 340 | Quercy | easy to moderate |
 | 15 | Sun, Apr 21, 2024 | Varaire | CAHORS | 32.5 | 365 | 550 | Quercy | long, but easy |
 | 16 | Mon, Apr 22, 2024 | CAHORS | CAHORS | 0.0 | 0 | 0 | Quercy | Zero Day |
+
+ | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 17 | Fri, Apr 19, 2024 | CAHORS | Lascarbanes | 23.5 | 652 | 590 | Quercy | Short but wicked steep climb out of CAHORS. This is the last bit of strenuous terrain until the Pyrenees. |
 | 18 | Sat, Apr 20, 2024 | Lascarbanes | Lauzerte | 23.8 | 698 | 654 | Quercy | |
 | 19 | Sun, Apr 21, 2024 | Lauzerte | MOISSAC | 27.1 | 681 | 829 | Quercy | No food or water after Dufort (mid-day), so pack well. Vespers at abbey. Possible Zero day here? |
