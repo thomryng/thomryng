@@ -6,11 +6,18 @@ There are few notes for the Spanish section, as we've walked that before and hav
 
 Place names in CAPITALS have a population of more than 2500. \* following indicates a population of more than 10,000.
 
- | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
+**To Begin**
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | Notes |
+| --- | --- | --- | --- |
+| Sun, Mar 31, 2024 | SEATTLE | Fly to PARIS\* | Early morning flight will get us into Charles de Gaulle mid-morning or noon the next day |
+| Mon, Apr 01, 2024 | Flight / Train | LE PUY | Arrive in Paris. Take train to Le Puy. Trains leave every couple of hours and take between four and six hours to arrive, depending on which one we get. Arrive in Le Puy and SLEEP. |
+| Tue, Apr 02, 2024 | LE PUY | LE PUY | Zero day: adjusting to time change and exploring Le Puy. Move to albergue. Get credencial/stamp in Cathedral. |
+
+**The Via Podiensis in France**
+
+| Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | Sun, Mar 31, 2024 | SEATTLE | Fly to PARIS\* | | | | | Early morning flight will get us into Charles de Gaulle mid-morning or noon the next day |
-| | Mon, Apr 01, 2024 | Flight / Train | LE PUY | | | | | Arrive in Paris. Take train to Le Puy. Trains leave every couple of hours and take between four and six hours to arrive, depending on which one we get. Arrive in Le Puy and SLEEP. |
-| | Tue, Apr 02, 2024 | LE PUY | LE PUY | | | | | Zero day: adjusting to time change and exploring Le Puy. Move to albergue. Get credencial/stamp in Cathedral. |
 | 1 | Wed, Apr 03, 2024 | LE PUY | Saint-Privat-d'Allier | 23.5 | 736 | 546 | Velay | Pilgrim Mass begins at 7am, and then it's out the door and walking! Uphill most of the day, with the descent happening over the last 4km. |
 | 2 | Thu, Apr 04, 2024 | Saint-Privat-d'Allier | Saugues | 19.0 | 882 | 787 | Velay / Margeride | One of the most challenging stages of the whole walk. Down into a river valley, and then back up again. At least it's short. Lunch in Monistrol (bottom of valley) is the last café until Saugues, so stock up on snacks and water. |
 | 3 | Fri, Apr 05, 2024 | Saugues | Domaine du Sauvage | 19.5 | 719 | 396 | Margeride | A whole lotta uphill. Domaine du Sauvage is a farm complex in the middle of nowhere and MUST be reserved (demi-pension). [http://www.sauvage-en-gevaudan.com/](http://www.sauvage-en-gevaudan.com/) |
@@ -20,11 +27,11 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 7 | Tue, Apr 09, 2024 | Aubrac | Saint-Côme-d'Olt | 23.9 | 536 | 1469 | Aubrac | Stock up at Saint-Chély-d'Aubrac (late morning) as there is no food available until end of day. A long downhill trek. |
 | 8 | Wed, Apr 10, 2024 | Saint-Côme-d'Olt | Estaing | 20.3 | 710 | 769 | Lot River Valley | Today's route is a UNESCO World Heritage site. Elevenses in city of ESPALION, which is several hundred meters off-route. Stock up on food and full water in Estaing, as there is NOTHING until Golinhac, which is 14 km into tomorrow. |
 | 9 | Thu, Apr 11, 2024 | Estaing | Espeyrac | 22.8 | 971 | 898 | Lot River Valley | Long, steep morning climb. A late lunch in Golinhac, then a descent into Espeyrac. |
-| 10 | Fri, Apr 12, 2024 | Espeyrac | Conques | 12.5 | 419 | 513 | Lot River Valley | Use caution on steep descent into Conques. With any luck, we'll have a half-day to explore Conques. This is Francine's last day until meeting up again somewhere in Spain. |
+| 10 | Fri, Apr 12, 2024 | Espeyrac | Conques | 12.5 | 419 | 513 | Lot River Valley | Use caution on steep descent into Conques. With any luck, we'll have a half-day to explore Conques. **This is Francine's last day until meeting up again somewhere in Spain.** |
 | 11 | Sat, Apr 13, 2024 | Conques | Livinhac-le-Haut | 25.8 | 1139 | 1212 | Lot River Valley | A strenuous day with a steep morning climb. Late lunch (?) in city of DECAZEVILLE. |
 | 12 | Sun, Apr 14, 2024 | Livinhac-le-Haut | FIGEAC\* | 24.4 | 707 | 731 | Quercy | Today's route is a UNESCO World Heritage site. FIGEAC is the largest city so far. Try to get here early, as there is an Egyptian museum and a Templar Commandery. |
 
-**Option 1: four days to CAHORS**
+**Option 1: Four days to CAHORS**
 
  | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | ---                     | --- | --- | --- | --- | --- | --- | --- |
@@ -33,7 +40,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 15 | Wed, Apr 17, 2024 | Limogne-en-Quercy | Mas de Vers | 22.1 | 376 | 410 | Quercy | Today's route is a UNESCO World Heritage site (through tomorrow). RESERVE |
 | 16 | Thu, Apr 18, 2024 | Mas de Vers | CAHORS | 17.7 | 388 | 537 | Quercy | CAHORS is the largest city of the Quercy region. Old city and domed Romanesque cathedral are not to be missed. |
 
-**Option 2: three days to CAHORS followed by Zero Day.**
+**Option 2: Three days to CAHORS followed by Zero Day.**
 [additional options at FIGEAC](#additional-options-at-figeac)
 
  | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
@@ -42,6 +49,8 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 14 | Sat, Apr 20, 2024 | Cajarc | Varaire | 27.5 | 510 | 340 | Quercy | easy to moderate |
 | 15 | Sun, Apr 21, 2024 | Varaire | CAHORS | 32.5 | 365 | 550 | Quercy | long, but easy |
 | 16 | Mon, Apr 22, 2024 | CAHORS | CAHORS | 0.0 | 0 | 0 | Quercy | Zero Day |
+
+**From CAHORS**
 
  | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -61,6 +70,11 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 30 | Thu, May 02, 2024 | Aroue | Ostabat-Asme | 24.0 | 645 | 585 | Basque Country | Options! Terrain! |
 | 31 | Fri, May 03, 2024 | Ostabat-Asme | Saint-Jean-Pied-de-Port | 22.2 | 325 | 310 | Basque Country | Lots of road walking. |
 | 32 | Sat, May 04, 2024 | Saint-Jean-Pied-de-Port | Roncesvalles | 26.0 | 1574 | 333 | Basque Country | PYRENEES |
+
+**The Camino Francés in Spain**
+
+ | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 33 | Sun, May 05, 2024 | Roncesvalles | Zubiri | 21.5 | | | Navarra | |
 | 34 | Mon, May 06, 2024 | Zubiri | PAMPLONA\* | 22.0 | | | Navarra | |
 | 35 | Tue, May 07, 2024 | PAMPLONA\* | PUENTE LA REINA | 24.0 | | | Navarra | |
