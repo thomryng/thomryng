@@ -33,7 +33,8 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 15 | Wed, Apr 17, 2024 | Limogne-en-Quercy | Mas de Vers | 22.1 | 376 | 410 | Quercy | Today's route is a UNESCO World Heritage site (through tomorrow). RESERVE |
 | 16 | Thu, Apr 18, 2024 | Mas de Vers | CAHORS | 17.7 | 388 | 537 | Quercy | CAHORS is the largest city of the Quercy region. Old city and domed Romanesque cathedral are not to be missed. |
 
-**Option 2: three days to CAHORS followed by Zero Day.** [additional options](#additional-options-at-figeac]
+**Option 2: three days to CAHORS followed by Zero Day.** 
+[additional options](#additional-options-at-figeac]
 
  | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
