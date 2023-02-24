@@ -6,7 +6,7 @@ There are few notes for the Spanish section, as we've walked that before and hav
 
 Place names in CAPITALS have a population of more than 2500. \* following indicates a population of more than 10,000.
 
- | Stage | Date | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
+ | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | Sun, Mar 31, 2024 | SEATTLE | Fly to PARIS\* | | | | | Early morning flight will get us into Charles de Gaulle mid-morning or noon the next day |
 | | Mon, Apr 01, 2024 | Flight / Train | LE PUY | | | | | Arrive in Paris. Take train to Le Puy. Trains leave every couple of hours and take between four and six hours to arrive, depending on which one we get. Arrive in Le Puy and SLEEP. |
@@ -23,12 +23,20 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 10 | Fri, Apr 12, 2024 | Espeyrac | Conques | 12.5 | 419 | 513 | Lot River Valley | Use caution on steep descent into Conques. With any luck, we'll have a half-day to explore Conques. This is Francine's last day until meeting up again somewhere in Spain. |
 | 11 | Sat, Apr 13, 2024 | Conques | Livinhac-le-Haut | 25.8 | 1139 | 1212 | Lot River Valley | A strenuous day with a steep morning climb. Late lunch (?) in city of DECAZEVILLE. |
 | 12 | Sun, Apr 14, 2024 | Livinhac-le-Haut | FIGEAC\* | 24.4 | 707 | 731 | Quercy | Today's route is a UNESCO World Heritage site. FIGEAC is the largest city so far. Try to get here early, as there is an Egyptian museum and a Templar Commandery. |
-| | **Option 1: four days to CAHORS** | | | | | | | |
+
+**Option 1: four days to CAHORS**
+
+ | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
+| --- | ---                     | --- | --- | --- | --- | --- | --- | --- |
 | 13 | Mon, Apr 15, 2024 | FIGEAC\* | Gréalou | 19.0 | 648 | 453 | Quercy | Today's route is a UNESCO World Heritage site (through tomorrow morning). Stock up on snacks and pack extra water. |
 | 14 | Tue, Apr 16, 2024 | Gréalou | Limogne-en-Quercy | 28.3 | 806 | 882 | Quercy | Steep descent mid-day to the town of Cajarc, followed by an equally steep ascent. Pack extra water. |
 | 15 | Wed, Apr 17, 2024 | Limogne-en-Quercy | Mas de Vers | 22.1 | 376 | 410 | Quercy | Today's route is a UNESCO World Heritage site (through tomorrow). RESERVE |
 | 16 | Thu, Apr 18, 2024 | Mas de Vers | CAHORS | 17.7 | 388 | 537 | Quercy | CAHORS is the largest city of the Quercy region. Old city and domed Romanesque cathedral are not to be missed. |
-| | **Option 2: three days to CAHORS followed by Zero Day.** [additional options](#additional-options-at-figeac] | | | | | | | |
+
+**Option 2: three days to CAHORS followed by Zero Day.** [additional options](#additional-options-at-figeac]
+
+ | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 13 | Fri, Apr 19, 2024 | FIGEAC\* | Cajarc | 30.8 | 620 | 670 | Quercy | moderate, with a short sharp descent at the very end |
 | 14 | Sat, Apr 20, 2024 | Cajarc | Varaire | 27.5 | 510 | 340 | Quercy | easy to moderate |
 | 15 | Sun, Apr 21, 2024 | Varaire | CAHORS | 32.5 | 365 | 550 | Quercy | long, but easy |
