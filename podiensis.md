@@ -90,4 +90,4 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 71 | Wed, Jun 12, 2024 | HOME | | | | | | |
 | | | | TOTAL DISTANCE | 1,540.0 km | | | |
 
-\* ADDITIONAL OPTIONS: there are two major options/different routes that begin on stage 13, the **Célé Valley** and **Rocamadour** variants. The Célé Valley variant provides an alternate route to CAHORS of 5 days, while the Rocamadour variant takes 6 days to reach CAHORS. Given time constraints, it's unlikely that I will take either, although I'm somewhat disappointed to miss the great shrine at Rocamadour.
+\* ADDITIONAL OPTIONS: there are two major options/different routes that begin on stage 13, the **Célé Valley** and **Rocamadour** variants. The Célé Valley variant provides an alternate route to CAHORS of 5 days, while the Rocamadour variant takes 6 days to reach CAHORS. Given time constraints, it's unlikely that I will take either, although I'm somewhat disappointed to miss the great shrine at Rocamadour. One possibility is to take a train from FIGEAC to Rocamadour in the morning, and then back in the evening. That possibility will offset the remaining Camino by a day.
