@@ -12,7 +12,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | --- | --- | --- | --- |
 | Sun, Mar 31, 2024 | SEATTLE | Fly to PARIS\* | Early morning flight will get us into Charles de Gaulle mid-morning or noon the next day |
 | Mon, Apr 01, 2024 | Flight / Train | LE PUY | Arrive in Paris. Take train to Le Puy. Trains leave every couple of hours and take between four and six hours to arrive, depending on which one we get. Arrive in Le Puy and SLEEP. |
-| Tue, Apr 02, 2024 | LE PUY | LE PUY | Zero day: adjusting to time change and exploring Le Puy. Move to albergue. Get credencial/stamp in Cathedral. |
+| Tue, Apr 02, 2024 | LE PUY | LE PUY | Zero day: adjusting to time change and exploring Le Puy. Get credencial/stamp in Cathedral. |
 
 **The Via Podiensis in France**
 
