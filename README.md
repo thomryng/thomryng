@@ -14,3 +14,5 @@
 [Itinerary](https://github.com/thomryng/thomryng/blob/main/podiensis.md) for 1,540 km / 950 miles
 
 [Elevation Profiles](https://github.com/thomryng/thomryng/blob/main/podiensis-elevation.md)
+
+[Camino Blog](https://www.thomryng.com/camino/)
