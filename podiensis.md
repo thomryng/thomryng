@@ -1,4 +1,4 @@
-This is a hack at the schedule for our 2024 Camino. This is a total of 63 days walking, to which at least three rest days will be added (Cahors and Burgos, plus one floating day).
+This is a hack at the schedule for our 2024 Camino. This is a total of 63 days walking, to which at least three rest days will be added (Cahors and Burgos, plus one floating day). There is also the possibility of adding [a side trip](#additional-options-at-figeac), which will take an additional day.
 
 A buffer of several days is built in at the end to account for unexpected Zero days due to fatigue or injury or someplace so spectacular we need to spend a day exploring it.
 
