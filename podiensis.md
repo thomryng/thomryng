@@ -68,7 +68,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 26 | Sun, Apr 28, 2024 | AIRE-SUR-L'ADOUR | Arzacq-Arraziguet | 33.8 | 485 | 330 | Gascony | No food or water before Miramont-Sensacq (mid-day), so pack well. |
 | 27 | Mon, Apr 29, 2024 | Arzacq-Arraziguet | Arthez-de-Béarn | 30.2 | 460 | 495 | Gascony | On a clear day, you can see the Pyrenees. |
 | 28 | Tue, Apr 30, 2024 | Arthez-de-Béarn | Navarrenx | 31.6 | 475 | 550 | Gascony | Long but easy. |
-| 29 | Wed, May 01, 2024 | Navarrenx | Aroue | 19.5 | 275 | 290 | Basque Country | Pack food and water. |
+| 29 | Wed, May 01, 2024 | Navarrenx | Aroue | 19.5 | 275 | 290 | Basque Country | Pack food and water. MAY 01 IS A PUBLIC HOLIDAY IN FRANCE |
 | 30 | Thu, May 02, 2024 | Aroue | Ostabat-Asme | 24.0 | 645 | 585 | Basque Country | Options! Terrain! |
 | 31 | Fri, May 03, 2024 | Ostabat-Asme | Saint-Jean-Pied-de-Port | 22.2 | 325 | 310 | Basque Country | Lots of road walking. |
 | 32 | Sat, May 04, 2024 | Saint-Jean-Pied-de-Port | Roncesvalles | 26.0 | 1574 | 333 | Basque Country | PYRENEES |
