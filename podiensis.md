@@ -12,7 +12,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | Notes |
 | --- | --- | --- | --- |
-| Sun, Mar 31, 2024 | SEATTLE | Fly to PARIS\* | Early morning flight will get us into Charles de Gaulle mid-morning or noon the next day |
+| Sun, Mar 31, 2024 | SEATTLE | Fly to PARIS\* | Early morning flight will get us into Charles de Gaulle mid-morning or noon the next day. Earlier is better, since on Monday the trains are running on a Sunday schedule (Easter Monday). |
 | Mon, Apr 01, 2024 | Flight / Train | LE PUY-EN-VELAY | Arrive in Paris. Take train to Le Puy. Trains leave every couple of hours and take between four and six hours to arrive, depending on which one we get. Arrive in Le Puy and SLEEP. |
 | Tue, Apr 02, 2024 | LE PUY-EN-VELAY | LE PUY-EN-VELAY | Zero day: adjusting to time change and exploring Le Puy. Get credencial/stamp in Cathedral. |
 
