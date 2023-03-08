@@ -20,7 +20,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 
 | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Wed, Apr 03, 2024 | LE PUY | Saint-Privat-d'Allier | 23.5 | 736 | 546 | Velay | Pilgrim Mass begins at 7am, and then it's out the door and walking! Uphill most of the day, with the descent happening over the last 4km. |
+| 1 | Wed, Apr 03, 2024 | LE PUY-EN-VELAY | Saint-Privat-d'Allier | 23.5 | 736 | 546 | Velay | Pilgrim Mass begins at 7am, and then it's out the door and walking! Uphill most of the day, with the descent happening over the last 4km. |
 | 2 | Thu, Apr 04, 2024 | Saint-Privat-d'Allier | Saugues | 19.0 | 882 | 787 | Velay / Margeride | One of the most challenging stages of the whole walk. Down into a river valley, and then back up again. At least it's short. Lunch in Monistrol (bottom of valley) is the last café until Saugues, so stock up on snacks and water. |
 | 3 | Fri, Apr 05, 2024 | Saugues | Domaine du Sauvage | 19.5 | 719 | 396 | Margeride | A whole lotta uphill. Domaine du Sauvage is a farm complex in the middle of nowhere and MUST be reserved (demi-pension). [http://www.sauvage-en-gevaudan.com/](http://www.sauvage-en-gevaudan.com/) |
 | 4 | Sat, Apr 06, 2024 | Domaine du Sauvage | Les Estrets | 21.0 | 478 | 829 | Margeride | Stock up at Saint-Alban-sur-Limagnole (lunch-ish), because the next grocery is in Aumont-Aubrac. |
