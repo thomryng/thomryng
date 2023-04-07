@@ -11,7 +11,7 @@
 ## Planning for ~~Spring of 2024~~ Autumn of 2023: a Long Walk
 ![le puy map intro](https://user-images.githubusercontent.com/32556466/191782867-febbde01-b517-4da0-a62e-e1025fb4e499.png)
 
-[Itinerary](https://github.com/thomryng/thomryng/blob/main/podiensis.md) for 1,540 km / 950 miles
+[Itinerary](https://github.com/thomryng/thomryng/blob/main/podiensis.md) for 1,578 km / 980 miles (give or take)
 
 [Elevation Profiles](https://github.com/thomryng/thomryng/blob/main/podiensis-elevation.md)
 
