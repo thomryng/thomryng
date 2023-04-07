@@ -56,46 +56,52 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 
 **The Camino Francés in Spain**
 
- | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
+| Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 33 | Sun, May 05, 2024 | Roncesvalles | Zubiri | 21.5 | | | Navarra | |
-| 34 | Mon, May 06, 2024 | Zubiri | PAMPLONA\* | 22.0 | | | Navarra | |
-| 35 | Tue, May 07, 2024 | PAMPLONA\* | PUENTE LA REINA | 24.0 | | | Navarra | |
-| 36 | Wed, May 08, 2024 | PUENTE LA REINA | ESTELLA\* | 22.0 | | | Navarra | |
-| 37 | Thu, May 09, 2024 | ESTELLA\* | Los Arcos | 22.0 | | | Navarra | |
-| 38 | Fri, May 10, 2024 | Los Arcos | LOGROÑO\* | 28.0 | | | La Rioja | |
-| 39 | Sat, May 11, 2024 | LOGROÑO\* | NÁJERA | 31.0 | | | La Rioja | |
-| 40 | Sun, May 12, 2024 | NÁJERA | SANTO DOMINGO de la Calzada | 21.0 | | | La Rioja | |
-| 41 | Mon, May 13, 2024 | SANTO DOMINGO de la Calzada | Belorado | 23.0 | | | Castilla y León | |
-| 42 | Tue, May 14, 2024 | Belorado | San Juan de Ortega | 24.0 | | | Castilla y León | |
-| 43 | Wed, May 15, 2024 | San Juan de Ortega | BURGOS\* | 27.5 | | | Castilla y León / The Meseta | |
-| 44 | Thu, May 16, 2024 | BURGOS\* | BURGOS\* | 0.0 | | | Castilla y León / The Meseta | Zero Day |
-| 45 | Fri, May 17, 2024 | BURGOS\* | Hontanas | 31.5 | | | Castilla y León / The Meseta | |
-| 46 | Sat, May 18, 2024 | Hontanas | Boadilla del Camino | 26.0 | | | Castilla y León / The Meseta | |
-| 47 | Sun, May 19, 2024 | Boadilla del Camino | Carrión de los Condes | 25.0 | | | Castilla y León / The Meseta | |
-| 48 | Mon, May 20, 2024 | Carrión de los Condes | Moratinos | 31.9 | | | Castilla y León / The Meseta | |
-| 49 | Tue, May 21, 2024 | Moratinos | El Burgo Ranero | 28.4 | | | Castilla y León / The Meseta | |
-| 50 | Wed, May 22, 2024 | El Burgo Ranero | Mansilla de las Mulas | 19.0 | | | Castilla y León / The Meseta | |
-| 51 | Thu, May 23, 2024 | Mansilla de las Mulas | LEÓN | 20.0 | | | Castilla y León / The Meseta | |
-| 52 | Fri, May 24, 2024 | LEÓN | Villar de Mazarife | 22.0 | | | Castilla y León / The Meseta | |
-| 53 | Sat, May 25, 2024 | Villar de Mazarife | ASTORGA | 25.0 | | | Castilla y León / The Meseta | |
-| 54 | Sun, May 26, 2024 | ASTORGA | Foncebadón | 27.0 | | | Castilla y León | Pretty much everything after this in the schedule is fluid. |
-| 55 | Mon, May 27, 2024 | Foncebadón | PONFERRADA\* | 29.0 | | | Castilla y León / El Bierzo | |
-| 56 | Tue, May 28, 2024 | PONFERRADA\* | VILLAFRANCA DEL BIERZO | 28.5 | | | Castilla y León / El Bierzo | |
-| 57 | Wed, May 29, 2024 | VILLAFRANCA DEL BIERZO | La Faba | 23.0 | | | Galicia | |
-| 58 | Thu, May 30, 2024 | La Faba | Triacastela | 25.5 | | | Galicia | |
-| 59 | Fri, May 31, 2024 | Triacastela | Samos | 10.0 | | | Galicia | A very short day. Potentially skipping Samos would save a day. |
-| 60 | Sat, Jun 01, 2024 | Samos | Morgade | 23.5 | | | Galicia | |
-| 61 | Sun, Jun 02, 2024 | Morgade | Ligonde | 26.0 | | | Galicia | |
-| 62 | Mon, Jun 03, 2024 | Ligonde | MELIDE | 24.0 | | | Galicia | |
-| 63 | Tue, Jun 04, 2024 | MELIDE | Brea | 30.0 | | | Galicia | |
-| 64 | Wed, Jun 05, 2024 | Brea | Lavacolla | 15.0 | | | Galicia | Short day. |
-| 65 | Thu, Jun 06, 2024 | Lavacolla | SANTIAGO DE COMPOSTELA\* | 10.5 | | | Galicia | A very short day. |
-| 66 | Fri, Jun 07, 2024 | SANTIAGO DE COMPOSTELA\* | SANTIAGO DE COMPOSTELA\* | | | | | |
-| 67 | Sat, Jun 08, 2024 | SANTIAGO DE COMPOSTELA\* | fly to PARIS\* | | | | | |
-| 68 | Sun, Jun 09, 2024 | PARIS\* | PARIS\* | | | | | |
-| 69 | Mon, Jun 10, 2024 | PARIS\* | PARIS\* | | | | | |
-| 70 | Tue, Jun 11, 2024 | PARIS\* | fly home | | | | | |
-| 71 | Wed, Jun 12, 2024 | HOME | | | | | | |
-| | | | TOTAL DISTANCE | 1,540.0 km | | | |
+| 33 | Tue, Sep 19, 2023 | Saint-Jean-Pied-de-Port | Roncesvalles | 26.0 | 1574 | 333 | Basque Country | PYRENEES - may need to pre-book Roncesvalles [https://alberguederoncesvalles.com/en/book-your-bed/](https://alberguederoncesvalles.com/en/book-your-bed/) |
+| 34 | Wed, Sep 20, 2023 | Roncesvalles | Zubiri | 21.5 | | | Navarra | |
+| 35 | Thu, Sep 21, 2023 | Zubiri | PAMPLONA\* | 22.0 | | | Navarra | |
+| 36 | Fri, Sep 22, 2023 | PAMPLONA\* | PUENTE LA REINA | 24.0 | | | Navarra | |
+| 37 | Sat, Sep 23, 2023 | PUENTE LA REINA | ESTELLA\* | 22.0 | | | Navarra | |
+| 38 | Sun, Sep 24, 2023 | ESTELLA\* | Los Arcos | 22.0 | | | Navarra | |
+| 39 | Mon, Sep 25, 2023 | Los Arcos | LOGROÑO\* | 28.0 | | | La Rioja | |
+| 40 | Tue, Sep 26, 2023 | LOGROÑO\* | NÁJERA | 31.0 | | | La Rioja | |
+| 41 | Wed, Sep 27, 2023 | NÁJERA | SANTO DOMINGO de la Calzada | 21.0 | | | La Rioja | |
+| 42 | Thu, Sep 28, 2023 | SANTO DOMINGO de la Calzada | Belorado | 23.0 | | | Castilla y León | |
+| 43 | Fri, Sep 29, 2023 | Belorado | San Juan de Ortega | 24.0 | | | Castilla y León | |
+| 44 | Sat, Sep 30, 2023 | San Juan de Ortega | BURGOS\* | 27.5 | | | Castilla y León / The Meseta | |
+| 45 | Sun, Oct 01, 2023 | BURGOS\* | BURGOS\* | 0.0 | | | Castilla y León / The Meseta | Zero Day |
+| 46 | Mon, Oct 02, 2023 | BURGOS\* | Hontanas | 31.5 | | | Castilla y León / The Meseta | |
+| 47 | Tue, Oct 03, 2023 | Hontanas | Boadilla del Camino | 26.0 | | | Castilla y León / The Meseta | |
+| 48 | Wed, Oct 04, 2023 | Boadilla del Camino | Carrión de los Condes | 25.0 | | | Castilla y León / The Meseta | |
+| 49 | Thu, Oct 05, 2023 | Carrión de los Condes | Moratinos | 31.9 | | | Castilla y León / The Meseta | |
+| 50 | Fri, Oct 06, 2023 | Moratinos | El Burgo Ranero | 28.4 | | | Castilla y León / The Meseta | |
+| 51 | Sat, Oct 07, 2023 | El Burgo Ranero | Mansilla de las Mulas | 19.0 | | | Castilla y León / The Meseta | |
+| 52 | Sun, Oct 08, 2023 | Mansilla de las Mulas | LEÓN | 20.0 | | | Castilla y León / The Meseta | |
+| 53 | Mon, Oct 09, 2023 | LEÓN | Villar de Mazarife | 22.0 | | | Castilla y León / The Meseta | |
+| 54 | Tue, Oct 10, 2023 | Villar de Mazarife | ASTORGA | 25.0 | | | Castilla y L eón / The Meseta | |
+| 55 | Wed, Oct 11, 2023 | ASTORGA | Foncebadón | 27.0 | | | Castilla y León | Pretty much everything after this is fluid. |
+| 56 | Thu, Oct 12, 2023 | Foncebadón | PONFERRADA\* | 29.0 | | | Castilla y León / El Bierzo | [12 OCT - Fiesta Nacional de España](https://publicholidays.es/fiesta-nacional-de-espana/) |
+| 57 | Fri, Oct 13, 2023 | PONFERRADA\* | VILLAFRANCA DEL BIERZO | 28.5 | | | Castilla y León / El Bierzo | |
+| 58 | Sat, Oct 14, 2023 | VILLAFRANCA DEL BIERZO | La Faba | 23.0 | | | Galicia | |
+| 59 | Sun, Oct 15, 2023 | La Faba | Triacastela | 25.5 | | | Galicia | |
+| 60 | Mon, Oct 16, 2023 | Triacastela | Samos | 10.0 | | | Galicia | A very short day. Potentially skipping Samos would save a day. |
+| 61 | Tue, Oct 17, 2023 | Samos | Morgade | 23.5 | | | Galicia | |
+| 62 | Wed, Oct 18, 2023 | Morgade | Ligonde | 26.0 | | | Galicia | |
+| 63 | Thu, Oct 19, 2023 | Ligonde | MELIDE | 24.0 | | | Galicia | |
+| 64 | Fri, Oct 20, 2023 | MELIDE | Brea | 30.0 | | | Galicia | |
+| 65 | Sat, Oct 21, 2023 | Brea | Lavacolla | 15.0 | | | Galicia | Short day. |
+| 66 | Sun, Oct 22, 2023 | Lavacolla | SANTIAGO DE COMPOSTELA\* | 10.5 | | | Galicia | A very short day. |
+| 67 | Mon, Oct 23, 2023 | SANTIAGO DE COMPOSTELA\* | SANTIAGO DE COMPOSTELA\* | | | | | |
 
+**Home Again**
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | Notes |
+| -- | -- | -- | -- |
+| Tue, Oct 24, 2023 | | | These days are reserved for injury or additional rest days. If I don't use them up earlier in the trip, I hope to spend at least a couple of days in Santiago, and then perhaps a couple in Lyon. | 
+| Wed, Oct 25, 2023 | | | | 
+| Thu, Oct 26, 2023 | | | | 
+| Fri, Oct 27, 2023 | LYON\* | fly home | |
+| Sat, Oct 28, 2023 | HOME | | | | 
+
+TOTAL DISTANCE: 1,578 km / 980 miles (give or take)
