@@ -58,7 +58,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 
 | Stage | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | End | KM | Ascent (m) | Descent (m) | Region | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 33 | Tue, Sep 19, 2023 | Saint-Jean-Pied-de-Port | Roncesvalles | 26.0 | 1574 | 333 | Basque Country | PYRENEES - may need to pre-book Roncesvalles [https://alberguederoncesvalles.com/en/book-your-bed/](https://alberguederoncesvalles.com/en/book-your-bed/) |
+| 33 | Tue, Sep 19, 2023 | Saint-Jean-Pied-de-Port | Roncesvalles | 26.0 | 1574 | 333 | Basque Country | PYRENEES - may need to pre-book Roncesvalles |
 | 34 | Wed, Sep 20, 2023 | Roncesvalles | Zubiri | 21.5 | | | Navarra | |
 | 35 | Thu, Sep 21, 2023 | Zubiri | PAMPLONA\* | 22.0 | | | Navarra | |
 | 36 | Fri, Sep 22, 2023 | PAMPLONA\* | PUENTE LA REINA | 24.0 | | | Navarra | |
