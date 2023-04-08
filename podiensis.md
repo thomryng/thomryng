@@ -100,8 +100,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | -- | -- | -- | -- |
 | Tue, Oct 24, 2023 | | | These days are reserved for injury or additional rest days. If I don't use them up earlier in the trip, I hope to spend at least a couple of days in Santiago, and then perhaps a couple in Lyon. | 
 | Wed, Oct 25, 2023 | | | | 
-| Thu, Oct 26, 2023 | | | | 
-| Fri, Oct 27, 2023 | LYON\* | fly home | |
-| Sat, Oct 28, 2023 | HOME | | | | 
+| Thu, Oct 26, 2023 | LYON\* | fly home | |
+| Fri, Oct 27, 2023 | HOME | | | | 
 
 TOTAL DISTANCE: 1,578 km / 980 miles (give or take)
