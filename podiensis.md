@@ -50,7 +50,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 27 | Wed, Sep 13, 2023 | AIRE-SUR-L'ADOUR | Arzacq-Arraziguet | 33.8 | 485 | 330 | Gascony | First yellow arrows. No food or water before Miramont-Sensacq (mid-day), so pack well. |
 | 28 | Thu, Sep 14, 2023 | Arzacq-Arraziguet | Arthez-de-Béarn | 30.2 | 460 | 495 | Gascony | Pyrenees definitely visible now. |
 | 29 | Fri, Sep 15, 2023 | Arthez-de-Béarn | Navarrenx | 31.6 | 475 | 550 | Gascony | Long but easy. |
-| 30 | Sat, Sep 16, 2023 | Navarrenx | Aroue | 19.5 | 275 | 290 | Basque Country | Pack food and water. MAY 01 IS A PUBLIC HOLIDAY IN FRANCE |
+| 30 | Sat, Sep 16, 2023 | Navarrenx | Aroue | 19.5 | 275 | 290 | Basque Country | Pack food and water. |
 | 31 | Sun, Sep 17, 2023 | Aroue | Ostabat-Asme | 24 | 645 | 585 | Basque Country | Options! Terrain! |
 | 32 | Mon, Sep 18, 2023 | Ostabat-Asme | Saint-Jean-Pied-de-Port | 22.2 | 325 | 310 | Basque Country | Lots of road walking. |
 
