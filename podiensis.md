@@ -90,7 +90,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | 62 | Wed, Oct 18, 2023 | Morgade | Ligonde | 26.0 | | | Galicia | |
 | 63 | Thu, Oct 19, 2023 | Ligonde | MELIDE | 24.0 | | | Galicia | |
 | 64 | Fri, Oct 20, 2023 | MELIDE | Brea | 30.0 | | | Galicia | |
-| 65 | Sat, Oct 21, 2023 | Brea | Lavacolla | 15.0 | | | Galicia | Short day. |
+| 65 | Sat, Oct 21, 2023 | Brea | Lavacolla | 15.0 | | | Galicia | Short day. If needed, combine with next. |
 | 66 | Sun, Oct 22, 2023 | Lavacolla | SANTIAGO DE COMPOSTELA\* | 10.5 | | | Galicia | A very short day. |
 | 67 | Mon, Oct 23, 2023 | SANTIAGO DE COMPOSTELA\* | SANTIAGO DE COMPOSTELA\* | | | | | |
 
