@@ -1,4 +1,4 @@
-This is a hack at the schedule for my 2023 Camino. This is a total of 66 days walking (plus a scheduled Zero day in Burgos). 
+This is a hack at the schedule for my 2023 Camino. This is a total of 66 days walking (plus a scheduled Zero day in Burgos). Some days are short/half days.
 
 A buffer of several days is built in at the end to account for unexpected Zero days due to fatigue or injury or someplace so spectacular I need to spend a day exploring it.
 
@@ -6,7 +6,7 @@ There are few notes for the Spanish section, as we've walked that before and hav
 
 Place names in CAPITALS have a population of more than 2500. \* following indicates a population of more than 10,000.
 
-![VP route revised](https://user-images.githubusercontent.com/32556466/230646003-80164c70-abe8-4e89-a5cc-7df637f92079.jpg)
+![VP route final-ish](https://github.com/thomryng/thomryng/assets/32556466/02dc8cbb-ae60-4594-b3db-936698c83a32)
 
 **To Begin**
 
