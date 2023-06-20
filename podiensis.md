@@ -6,7 +6,7 @@ There are few notes for the Spanish section, as we've walked that before and hav
 
 Place names in CAPITALS have a population of more than 2500. \* following indicates a population of more than 10,000.
 
-![VP route revised](https://user-images.githubusercontent.com/32556466/230646003-80164c70-abe8-4e89-a5cc-7df637f92079.jpg)
+![VP route final-ish](https://github.com/thomryng/thomryng/assets/32556466/02dc8cbb-ae60-4594-b3db-936698c83a32)
 
 **To Begin**
 
