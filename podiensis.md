@@ -1,4 +1,4 @@
-This is a hack at the schedule for my 2023 Camino. This is a total of 66 days walking (plus a scheduled Zero day in Burgos). Some days are short/half days.
+This is a hack at the schedule for my 2023 Camino. This is a total of 65 days walking (plus a scheduled Zero day in Burgos). Some days are short/half days.
 
 A buffer of several days is built in at the end to account for unexpected Zero days due to fatigue or injury or someplace so spectacular I need to spend a day exploring it.
 
