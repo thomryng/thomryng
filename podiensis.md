@@ -99,6 +99,7 @@ Place names in CAPITALS have a population of more than 2500. \* following indica
 | Mon, Oct 23, 2023 | SANTIAGO DE COMPOSTELA\* | SANTIAGO DE COMPOSTELA\* | These days are reserved for injury or additional rest days. If I don't use them up earlier in the trip, I hope to spend at least a couple of days in Santiago, and then perhaps one in Lyon. |
 | Tue, Oct 24, 2023 | | | |
 | Wed, Oct 25, 2023 | | | |
-| Thu, Oct 26, 2023 | LYON\* | fly home |  |
+| Wed, Oct 26, 2023 | | | |
+| Thu, Oct 27, 2023 | SANTIAGO DE COMPOSTELA\* | fly home |  |
 
 TOTAL DISTANCE: 1,579 km / 980 miles (give or take)
