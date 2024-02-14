@@ -8,3 +8,6 @@
 6. Make a game plan and stick to it. Unless it’s not working. _(Yogi Berra)_
 7. The plan is nothing; planning is everything. _(attributed to Dwight D. Eisenhower)_
 
+# The Long Walk
+
+In 2024, I walked [a thousand miles on pilgrimage](https://github.com/thomryng/thomryng/blob/main/2024.md) from Le Puy-en-Velay in France to the shrine of the apostle Saint James in Santiago de Compostela, Spain. I've got [plenty of resources](https://github.com/thomryng/thomryng/blob/main/2024.md) if you're interested in how that worked out, or if you are interested in doing this yourself.
