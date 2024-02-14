@@ -10,9 +10,10 @@
 
 # Social
 
-- [LinkedIn](https://www.linkedin.com/in/thomryng/)
-- [FaceBook](https://www.facebook.com/thom.ryng)
 - [BlueSky](https://bsky.app/profile/thomryng.bsky.social)
+- [FaceBook](https://www.facebook.com/thom.ryng)
+- [Instagram](https://github.com/thomryng)
+- [LinkedIn](https://www.linkedin.com/in/thomryng/)
 
 # Web and Blogs
 
