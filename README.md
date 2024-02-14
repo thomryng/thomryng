@@ -11,3 +11,5 @@
 # The Long Walk
 
 In 2024, I walked [a thousand miles on pilgrimage](https://github.com/thomryng/thomryng/blob/main/2024.md) from Le Puy-en-Velay in France to the shrine of the apostle Saint James in Santiago de Compostela, Spain. I've got [plenty of resources](https://github.com/thomryng/thomryng/blob/main/2024.md) if you're interested in how that worked out, or if you are interested in doing this yourself.
+
+![pilgrim portrait](https://github.com/thomryng/thomryng/assets/32556466/8c1f6db7-740a-4eb1-be28-b2e4df76e68a)
