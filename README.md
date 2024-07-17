@@ -18,6 +18,7 @@
 # Web and Blogs
 
 - [ThomRyng.com](https://www.thomryng.com/)
+  - [Portfolio](https://www.thomryng.com/work-samples/)
 - [The World is Quiet Here](https://www.thomryng.com/amateurmonk/) - Ruminations of an Amateur Monk
 - [Pilgrims on the Way](https://www.thomryng.com/camino/) - Camino Blog
 
